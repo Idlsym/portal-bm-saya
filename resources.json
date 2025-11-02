@@ -1,0 +1,82 @@
+[
+  {
+    "id": "t1-nota-001",
+    "tingkatan": "Tingkatan 1",
+    "kategori": "Nota",
+    "tajuk": "Kata Nama - Tatabahasa",
+    "topik": "Tatabahasa",
+    "keterangan": "Nota ringkas tentang kata nama dan jenis-jenisnya.",
+    "fail_url": "resources/T1/nota_kata_nama.pdf",
+    "jenis_fail": "pdf",
+    "tarikh": "2025-01-12",
+    "tag": [
+      "kata nama",
+      "tatabahasa",
+      "tingkatan 1"
+    ]
+  },
+  {
+    "id": "t2-soalan-001",
+    "tingkatan": "Tingkatan 2",
+    "kategori": "Soalan",
+    "tajuk": "Soalan Kertas 1 (Pemahaman)",
+    "topik": "Pemahaman",
+    "keterangan": "Set soalan Kertas 1 contoh bagi Tingkatan 2.",
+    "fail_url": "resources/T2/soalan_kertas1.pdf",
+    "jenis_fail": "pdf",
+    "tarikh": "2025-02-18",
+    "tag": [
+      "soalan",
+      "pemahaman",
+      "tingkatan 2"
+    ]
+  },
+  {
+    "id": "t3-kuiz-001",
+    "tingkatan": "Tingkatan 3",
+    "kategori": "Kuiz",
+    "tajuk": "Kuiz Peribahasa",
+    "topik": "Peribahasa",
+    "keterangan": "Kuiz interaktif berkaitan peribahasa Melayu.",
+    "fail_url": "resources/T3/kuiz_peribahasa.html",
+    "jenis_fail": "html",
+    "tarikh": "2025-03-05",
+    "tag": [
+      "kuiz",
+      "peribahasa",
+      "tingkatan 3"
+    ]
+  },
+  {
+    "id": "t4-bbm-001",
+    "tingkatan": "Tingkatan 4",
+    "kategori": "BBM",
+    "tajuk": "Audio: Wacana Lisan",
+    "topik": "Mendengar",
+    "keterangan": "Rakaman wacana untuk aktiviti mendengar dan menilai.",
+    "fail_url": "resources/T4/audio_wacana.mp3",
+    "jenis_fail": "audio",
+    "tarikh": "2025-04-02",
+    "tag": [
+      "audio",
+      "mendengar",
+      "tingkatan 4"
+    ]
+  },
+  {
+    "id": "t5-latihan-001",
+    "tingkatan": "Tingkatan 5",
+    "kategori": "Latihan Topikal",
+    "tajuk": "Latihan Karangan Respons Terbuka",
+    "topik": "Penulisan",
+    "keterangan": "Latihan menulis karangan berformat berdasarkan tajuk semasa.",
+    "fail_url": "resources/T5/latihan_karangan.pdf",
+    "jenis_fail": "pdf",
+    "tarikh": "2025-05-10",
+    "tag": [
+      "penulisan",
+      "karangan",
+      "tingkatan 5"
+    ]
+  }
+]
